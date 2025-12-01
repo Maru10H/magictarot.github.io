@@ -15,7 +15,7 @@ Tarjetas digitales con afirmaciones y mantras para conectar con los 8 arquetipos
 
 ## 🚀 Ver en vivo
 
-[https://tu-usuario.github.io/8-diosas-afirmaciones/](https://tu-usuario.github.io/8-diosas-afirmaciones/)
+https://maru10h.github.io/mantrasdelasdiosas.github.io/
 
 ## 💻 Tecnologías
 
