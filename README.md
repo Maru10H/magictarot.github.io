@@ -1,6 +1,6 @@
 
 ## 🚀 Ver en vivo
 
-https://magictarot.online/
+https://magictarot.online
 
 
